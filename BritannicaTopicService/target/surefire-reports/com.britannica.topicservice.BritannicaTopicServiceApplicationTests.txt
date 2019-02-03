@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.britannica.topicservice.BritannicaTopicServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.867 s - in com.britannica.topicservice.BritannicaTopicServiceApplicationTests

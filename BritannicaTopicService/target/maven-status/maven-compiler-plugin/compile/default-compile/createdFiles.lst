@@ -1,0 +1,5 @@
+com\britannica\topicservice\BritannicaTopicServiceApplication.class
+com\britannica\topicservice\service\TopicService.class
+com\britannica\topicservice\dao\TopicRepository.class
+com\britannica\topicservice\model\TopicBean.class
+com\britannica\topicservice\controller\TopicRestController.class
